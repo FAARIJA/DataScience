@@ -1,5 +1,5 @@
-# DataScience
-### Python Practice Portfolio
+# DataScience Portfolio 
+### Python Practice
 
 Welcome to my GitHub repository 
 where I showcase the Python practices 
